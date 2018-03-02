@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonEx_activeBt", "ButtonEx_activeBt.csproj", "{538040AA-BDD1-DB83-568F-571D5E184A7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonEx_activeBt.Editor", "ButtonEx_activeBt.Editor.csproj", "{740AAEA1-09A7-4617-712E-CB6FC1B8FCEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{538040AA-BDD1-DB83-568F-571D5E184A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538040AA-BDD1-DB83-568F-571D5E184A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538040AA-BDD1-DB83-568F-571D5E184A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538040AA-BDD1-DB83-568F-571D5E184A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{740AAEA1-09A7-4617-712E-CB6FC1B8FCEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{740AAEA1-09A7-4617-712E-CB6FC1B8FCEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{740AAEA1-09A7-4617-712E-CB6FC1B8FCEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{740AAEA1-09A7-4617-712E-CB6FC1B8FCEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
